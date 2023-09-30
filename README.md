@@ -6,4 +6,4 @@ Mini-Stealthburner X carriage that uses heatsets instead of M3 nuts
 
 
 
-(Format for this repo is stolen from [chirpy](https://github.com/chirpy2605))
+- (Format for this repo is stolen from [chirpy](https://github.com/chirpy2605))
